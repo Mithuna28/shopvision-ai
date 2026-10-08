@@ -234,3 +234,5 @@ SHOPVISION AI/
 
 ## ⚖️ License
 MIT License. Built for **SHOPVISION AI**.
+#   s h o p v i s i o n - a i  
+ 
